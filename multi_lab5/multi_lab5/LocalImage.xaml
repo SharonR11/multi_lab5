@@ -4,9 +4,7 @@
              x:Class="multi_lab5.LocalImage">
     <ContentPage.Content>
         <StackLayout>
-            <Label Text="Welcome to Xamarin.Forms!"
-                VerticalOptions="CenterAndExpand" 
-                HorizontalOptions="CenterAndExpand" />
+            <Image Source="yohan2.jpg"/>
         </StackLayout>
     </ContentPage.Content>
 </ContentPage>
